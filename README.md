@@ -11,21 +11,20 @@
 </div>
 <br />
 <div align="center">
-  <a href="https://github.com/voaneves/etl-sdw2023">
+  <a href="https://github.com/dmsystem/desafiodiopyhton">
     <img src="img/etl-sdw2023-logo.png" alt="Logo" width="200" height="182">
   </a>
   <h3 align="center">etl-sdw2023</h3>
   <p align="center">
     An ETL pipeline for the Santander Dev Week 2023 database.
     <br />
-    <a href="https://github.com/voaneves/etl-sdw2023"><strong>Explore the documentation »</strong></a>
+    <a href="https://github.com/dmsystem/desafiodiopyhton"><strong>Explore the documentation »</strong></a>
     <br />
     <br />
-    <a href="https://voaneves.com/etl-sdw2023">View Demo</a>
+      ·
+    <a href="https://github.com/dmsystem/desafiodiopyhton/issues">Report a Bug</a>
     ·
-    <a href="https://github.com/voaneves/etl-sdw2023/issues">Report a Bug</a>
-    ·
-    <a href="https://github.com/voaneves/etl-sdw2023/issues">Request a Feature</a>
+    <a href="https://github.com/dmsystem/desafiodiopyhton/issues">Request a Feature</a>
   </p>
 </div>
 
@@ -121,13 +120,13 @@ This project includes the following features:
 1. Clone this repository to your machine:
 
    ```bash
-   git clone https://github.com/voaneves/etl-sdw2023.git
+   git clone https://github.com/dmsystem/desafiodiopyhton.git
 
    ```
 
-2. You can open [this link](https://github.com/voaneves/etl-sdw2023/blob/main/Personaliza%C3%A7%C3%A3o_de_Engajamento_de_Clientes_no_Santander_usando_IA_Generativa.ipynb) to see results too.
+2. You can open [this link](https://github.com/dmsystem/desafiodiopyhton/blob/main/Personaliza%C3%A7%C3%A3o_de_Engajamento_de_Clientes_no_Santander_usando_IA_Generativa.ipynb) to see results too.
    
-2. Or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/voaneves/etl-sdw2023/blob/main/Personaliza%C3%A7%C3%A3o_de_Engajamento_de_Clientes_no_Santander_usando_IA_Generativa.ipynb) and add the `SDW2023.csv` file ([in here](https://github.com/voaneves/etl-sdw2023/blob/main/SDW2023.csv))
+2. Or [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dmsystem/desafiodiopyhton/blob/main/Personaliza%C3%A7%C3%A3o_de_Engajamento_de_Clientes_no_Santander_usando_IA_Generativa.ipynb) and add the `SDW2023.csv` file ([in here](https://github.com/dmsystem/desafiodiopyhton/blob/main/SDW2023.csv))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,15 +161,15 @@ This project is licensed under the [MIT License](/LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/voaneves/etl-sdw2023.svg?style=for-the-badge
-[contributors-url]: https://github.com/voaneves/etl-sdw2023/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/voaneves/etl-sdw2023.svg?style=for-the-badge
-[forks-url]: https://github.com/voaneves/etl-sdw2023/network/members
-[stars-shield]: https://img.shields.io/github/stars/voaneves/etl-sdw2023.svg?style=for-the-badge
-[stars-url]: https://github.com/voaneves.com/etl-sdw2023/stargazers
-[issues-shield]: https://img.shields.io/github/issues/voaneves/etl-sdw2023.svg?style=for-the-badge
-[issues-url]: https://github.com/voaneves/etl-sdw2023/issues
-[license-shield]: https://img.shields.io/github/license/voaneves/etl-sdw2023.svg?style=for-the-badge
-[license-url]: https://github.com/voaneves/etl-sdw2023/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/dmsystem/desafiodiopyhton.svg?style=for-the-badge
+[contributors-url]: https://github.com/dmsystem/desafiodiopyhton/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dmsystem/desafiodiopyhton.svg?style=for-the-badge
+[forks-url]: https://github.com/dmsystem/desafiodiopyhton/network/members
+[stars-shield]: https://img.shields.io/github/stars/dmsystem/desafiodiopyhton.svg?style=for-the-badge
+
+[issues-shield]: https://img.shields.io/github/issues/dmsystem/desafiodiopyhton.svg?style=for-the-badge
+[issues-url]: https://github.com/dmsystem/desafiodiopyhton/issues
+[license-shield]: https://img.shields.io/github/license/dmsystem/desafiodiopyhton.svg?style=for-the-badge
+[license-url]: https://github.com/dmsystem/desafiodiopyhton/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/voaneves
+[linkedin-url]: https://linkedin.com/in/decio-morais
