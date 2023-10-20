@@ -14,7 +14,7 @@
   <a href="https://github.com/dmsystem/desafiodiopyhton">
     <img src="img/etl-sdw2023-logo.png" alt="Logo" width="200" height="182">
   </a>
-  <h3 align="center">etl-sdw2023</h3>
+  <h3 align="center">ETL Python</h3>
   <p align="center">
     An ETL pipeline for the Santander Dev Week 2023 database.
     <br />
